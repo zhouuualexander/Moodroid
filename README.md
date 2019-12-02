@@ -5,7 +5,7 @@
 An app to log and view other peoples moods. 
 
 ## Demo video
-https://youtu.be/n5EvYZR74HE
+https://youtu.be/EuzAD_DIGV0
 ## Initial Startup
 
 1. ensure you setup a macro to automatically format on save: https://freakycoder.com/android-studio-tips-tricks-3-save-format-the-code-e8ea291fa84f
