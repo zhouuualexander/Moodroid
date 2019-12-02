@@ -4,7 +4,7 @@
 
 An app to log and view other peoples moods. 
 
-## Demo vider
+## Demo video
 https://youtu.be/n5EvYZR74HE
 ## Initial Startup
 
