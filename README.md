@@ -1,8 +1,6 @@
-![CI Status](https://travis-ci.com/CMPUT301F19T15/Moodroid.svg?branch=master)
-
 # Moodroid
 
-An app to log and view other peoples moods. 
+An app to log and view other peoples mood's. 
 
 ## Demo video
 https://youtu.be/EuzAD_DIGV0
